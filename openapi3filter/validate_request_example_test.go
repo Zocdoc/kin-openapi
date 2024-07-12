@@ -7,8 +7,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/getkin/kin-openapi/openapi3"
-	"github.com/getkin/kin-openapi/routers/gorillamux"
+	"github.com/Zocdoc/kin-openapi/openapi3"
+	"github.com/Zocdoc/kin-openapi/routers/gorillamux"
 )
 
 func ExampleAuthenticationFunc() {
